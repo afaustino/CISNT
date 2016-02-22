@@ -1,0 +1,23 @@
+{
+  "name": "cisnt-2",
+  "homepage": "https://github.com/rrgaya/ppp",
+  "authors": [
+    "Ricardo Gaya <rrgaya@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.6",
+    "angular": "1.5.0"
+  }
+}
